@@ -24,7 +24,7 @@ A Java Swing desktop application for managing student records with MySQL databas
 
 - NetBeans IDE (latest version recommended)
 - Java 24 or higher (JDK must be installed)
-- Maven (usually bundled with NetBeans)
+- Maven (bundled with NetBeans)
 - XAMPP (includes Apache and MySQL Server)
 
 ## Setup Instructions for NetBeans
@@ -264,3 +264,4 @@ JDataConnect/
 - **phpMyAdmin**: Accessible via XAMPP Control Panel → MySQL → Admin button
   - Useful for viewing database and tables manually
   - URL: http://localhost/phpmyadmin
+
