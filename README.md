@@ -1,4 +1,4 @@
-# JDataConnect - Student Management System
+# JDataConnect - Student Management System Made By Harshil Bhuva & Jay Gorasiya
 
 A Java Swing desktop application for managing student records with MySQL database integration.
 
@@ -256,7 +256,7 @@ JDataConnect/
 
 ## XAMPP Notes
 
-- **Only MySQL needs to be running** - Apache is not required for this Java application
+- **Only MySQL needs to be running** - 
 - **Default MySQL Settings**:
   - Username: `root`
   - Password: (empty/blank)
@@ -264,24 +264,3 @@ JDataConnect/
 - **phpMyAdmin**: Accessible via XAMPP Control Panel → MySQL → Admin button
   - Useful for viewing database and tables manually
   - URL: http://localhost/phpmyadmin
-
-## Dependencies
-
-- `mysql-connector-j` (8.3.0) - MySQL JDBC driver
-
-## NetBeans Shortcuts
-
-- **F6**: Run project
-- **F11**: Build project
-- **Shift + F11**: Clean and Build
-- **Ctrl + Shift + I**: Fix Imports
-- **Alt + Shift + F**: Format Code
-
-## License
-
-This project is open source and available for educational purposes.
-
-## Author
-
-Created as a Java desktop application project.
-
