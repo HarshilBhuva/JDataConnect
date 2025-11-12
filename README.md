@@ -28,7 +28,7 @@ A Java Swing desktop application for managing student records with MySQL databas
 - Maven (bundled with NetBeans)
 - XAMPP (includes Apache and MySQL Server)
 
-## Setup Instructions for NetBeans
+## Setup Instructions for NetBeans and XAMPP
 
 ### Step 1: Install and Start XAMPP
 
@@ -204,3 +204,4 @@ JDataConnect/
 - **Course**: Required, cannot be empty
 - **Age**: Required, must be a number between 1 and 150
 - **Phone**: Required, must be exactly 10 digits (numbers only)
+
